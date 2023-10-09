@@ -3,4 +3,4 @@ Lab Assignment 3: Write a Java program to demonstrate the implementation of a fa
 
 UML Diagram
 
-![Alt text](https://github.com/SelimRejabd/Facade-Design-Pattern/blob/main/UML%20diagram.png)
+![Alt text](https://github.com/SelimRejabd/Facade-Design-Pattern/blob/main/UML%20diagram.png "UML Diagram")
