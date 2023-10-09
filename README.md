@@ -1,4 +1,4 @@
-# Fa-ade-Design-Pattern
+# Facade-Design-Pattern
 Lab Assignment 3: Write a Java program to demonstrate the implementation of a façade design pattern for a Banking Service with Checking, Saving, and Investment modules.
 
 UML Diagram
